@@ -1,11 +1,11 @@
 main:
   - title: Convergence guarantees for stochastic subgradient methods in nonsmooth nonconvex optimization
-    authors:  <strong>Nachuan Xiao*</strong>, Xiaoyin Hu*, Kim-Chuan Toh
+    authors:  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh
     conference: "arXiv preprint arXiv:2307.10053."
     pdf: https://arxiv.org/pdf/2307.10053
 
   - title: Adam-family methods for nonsmooth optimization with convergence guarantees
-    authors:  <strong>Nachuan Xiao*</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh
+    authors:  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh
     conference: "arXiv preprint arXiv:2305.03938."
     pdf: https://arxiv.org/pdf/2305.03938
 
@@ -15,12 +15,12 @@ main:
     pdf: https://arxiv.org/pdf/2304.10092
 
   - title: A partial exact penalty function approach for constrained optimization
-    authors:  <strong>Nachuan Xiao*</strong>, Xin Liu*, Kim-Chuan Toh
+    authors:  <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh
     conference: "arXiv preprint arXiv:2212.02698."
     pdf: https://arxiv.org/pdf/2212.02698
 
   - title: "CDOpt: a Python package for a class of Riemannian optimization"
-    authors:  <strong>Nachuan Xiao*</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh
+    authors:  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh
     conference: "arXiv preprint arXiv:2212.02698."
     pdf: https://arxiv.org/pdf/2212.02698
 
