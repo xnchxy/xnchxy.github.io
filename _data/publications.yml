@@ -1,14 +1,14 @@
 main:
 
-  - title: Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer
-    authors: Xiaoyin Hu, Xin Liu, <strong>Nachuan Xiao*</strong>
-    conference: "Journal of Industrial and Management Optimization (to appear)"
-    pdf: https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627
-
   - title: A constraint dissolving approach for nonsmooth optimization over the stiefel manifold
     authors: Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh
     conference: "IMA Journal of Numerical Analysis (to appear)."
     pdf: https://arxiv.org/pdf/2205.10500
+
+  - title: Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer
+    authors: Xiaoyin Hu, Xin Liu, <strong>Nachuan Xiao*</strong>
+    conference: "Journal of Industrial and Management Optimization (to appear)"
+    pdf: https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627
 
   - title: Dissolving constraints for Riemannian optimization
     authors: <strong>Nachuan Xiao</strong>, Xin Liu, Kim-Chuan Toh*
