@@ -1,16 +1,11 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
-
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt"><autocolor>SIAM Journal on Optimization</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/12532"><autocolor>Mathematical Programming Computation</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78"><autocolor>IEEE Transactions on Signal Processing</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/10915"><autocolor>Journal of Scientific Computing</autocolor></a></li>
+  <li><a href="https://www.aimsciences.org/jimo"><autocolor>Journal of Industrial and Management Optimization</autocolor></a></li>
 </ul>
