@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doctoral fellow in the Institute of Operations Research and Analytics (IORA), National University of Singapore, working with Prof. [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I got my Ph.D. degree in the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021, under the supervision of Prof. [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/). I got my B.S. in Mathematics and Applied Mathematics from Fudan University in 2016.
+I am a post-doctoral fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore, working with Prof. [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I obtained my Ph.D. degree at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021, under the supervision of Prof. [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/). I obtained my B.S. in Mathematics and Applied Mathematics at Fudan University in 2016.
 
 ## Research Interests
 
