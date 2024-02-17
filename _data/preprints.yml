@@ -4,11 +4,6 @@ main:
     conference: "arXiv preprint arXiv:2307.10053."
     pdf: https://arxiv.org/pdf/2307.10053
 
-  - title: Adam-family methods for nonsmooth optimization with convergence guarantees
-    authors:  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh
-    conference: "arXiv preprint arXiv:2305.03938."
-    pdf: https://arxiv.org/pdf/2305.03938
-
   - title: A Riemannian Dimention-reduced Second Order Method with Application in Sensor Network Localization
     authors:  Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye
     conference: "arXiv preprint arXiv:2304.10092."

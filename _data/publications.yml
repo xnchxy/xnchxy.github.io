@@ -1,5 +1,10 @@
 main:
 
+  - title: Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees
+    authors: <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh
+    conference: "Journal of Machine Learning Research (to appear)."
+    pdf: https://arxiv.org/pdf/2305.03938
+
   - title: A constraint dissolving approach for nonsmooth optimization over the stiefel manifold
     authors: Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh
     conference: "IMA Journal of Numerical Analysis (to appear)."
