@@ -28,7 +28,7 @@ author_profile: true
 
 
 
-### PREPRINTS
+### Preprints
 
 ------
 
@@ -57,7 +57,7 @@ author_profile: true
 
 
 
-### PUBLICATIONS
+### Publications
 
 ------
 
