@@ -38,12 +38,12 @@ author_profile: true
 * [Convergence guarantees for stochastic subgradient methods in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
+* [A partial exact penalty function approach for constrained optimization](https://arxiv.org/pdf/2304.01467) <br>
+  <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh <br>
+  arXiv preprint arXiv:2304.01467. <br>
 * [A Riemannian Dimension-reduced Second Order Method with Application in Sensor Network Localization](https://arxiv.org/pdf/2304.10092) <br>
   Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
   arXiv preprint arXiv:2304.10092. <br>
-* [A partial exact penalty function approach for constrained optimization](https://arxiv.org/pdf/2212.02698) <br>
-  <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2212.02698. <br>
 * [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2212.02698. <br>
