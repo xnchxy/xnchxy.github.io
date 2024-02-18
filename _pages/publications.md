@@ -39,9 +39,9 @@ $^{\*}$: corresponding author
 * [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
   Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
   IMA Journal of Numerical Analysis (to appear). <br>
-* [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627)<br>
-  Xiaoyin Hu, Xin Liu, <strong>Nachuan Xiao*</strong><br>
-  Journal of Industrial and Management Optimization (to appear)<br>
+* [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627) <br>
+  Xiaoyin Hu, Xin Liu, <strong>Nachuan Xiao*</strong> <br>
+  Journal of Industrial and Management Optimization (to appear). <br>
 * [Dissolving constraints for Riemannian optimization ](https://pubsonline.informs.org/doi/abs/10.1287/moor.2023.1360) <br>
   <strong>Nachuan Xiao</strong>, Xin Liu, Kim-Chuan Toh* <br>
   Mathematics of Operations Research (to appear). <br>
