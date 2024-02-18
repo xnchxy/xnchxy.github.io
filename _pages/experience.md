@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
+
+------
+
 * 2012.09-2016.06<br>
   School of Mathematics Science, Fudan University, Shanghai, China<br>
   B.S. in Mathematics and Applied Mathematics<br>
@@ -18,8 +20,10 @@ Education
   Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences, Beijing, China<br>
   Ph.D. in Computational Mathematics<br>
 
-Academic experience
-======
+### Academic Experience
+
+------
+
 * 2021.08-present<br>
   Institute of Operations Research and Analytics, National University of Singapore<br>
   Research Fellow<br>
