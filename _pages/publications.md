@@ -22,8 +22,16 @@ author_profile: true
 
 - - -
 
-PREPRINTS
-======
+
+
+[Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=1qrNHUMAAAAJ&sortby=pubdate)
+
+
+
+### PREPRINTS
+
+------
+
 * [Adam-family Methods with Decoupled Weight Decay in Deep Learning](https://arxiv.org/pdf/2310.08858) <br>
   Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2310.08858. <br>
@@ -49,9 +57,10 @@ PREPRINTS
 
 
 
+### PUBLICATIONS
 
-PUBLICATIONS
-======
+------
+
 $^{\*}$: corresponding author
 
 * [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
