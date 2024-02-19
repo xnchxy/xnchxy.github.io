@@ -32,7 +32,7 @@ author_profile: true
 
 ------
 
-* [Adam-family Methods with Decoupled Weight Decay in Deep Learning](https://arxiv.org/pdf/2310.08858) <br>
+* [Adam-family methods with decoupled weight decay in deep learning](https://arxiv.org/pdf/2310.08858) <br>
   Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2310.08858. <br>
 * [Convergence guarantees for stochastic subgradient methods in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
@@ -63,7 +63,7 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
-* [Adam-family Methods for Nonsmooth Optimization with Convergence Guarantees](https://arxiv.org/pdf/2305.03938) <br>
+* [Adam-family methods for nonsmooth optimization with convergence guarantees](https://arxiv.org/pdf/2305.03938) <br>
   **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research (to appear). <br>
 * [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
