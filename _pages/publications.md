@@ -58,7 +58,7 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
-* [A Riemannian Dimension-reduced Second Order Method with Application in Sensor Network Localization](https://arxiv.org/pdf/2304.10092) <br>
+* [A Riemannian dimension-reduced second order method with application in sensor network localization](https://arxiv.org/pdf/2304.10092) <br>
   Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
   SIAM Journal on Scientific Computing (to appear). <br>
 * [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://arxiv.org/pdf/2103.03514) <br>
