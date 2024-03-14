@@ -44,10 +44,6 @@ author_profile: true
   <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2304.01467. <br>
   
-* [A Riemannian Dimension-reduced Second Order Method with Application in Sensor Network Localization](https://arxiv.org/pdf/2304.10092) <br>
-  Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
-  arXiv preprint arXiv:2304.10092. <br>
-  
 * [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2212.02698. <br>
@@ -62,6 +58,9 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
+* [A Riemannian Dimension-reduced Second Order Method with Application in Sensor Network Localization](https://arxiv.org/pdf/2304.10092) <br>
+  Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
+  SIAM Journal on Scientific Computing (to appear). <br>
 * [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://arxiv.org/pdf/2103.03514) <br>
   Xin Liu, <strong>Nachuan Xiao*</strong>, Ya-xiang Yuan <br>
   Journal of Scientific Computing (to appear). <br>
