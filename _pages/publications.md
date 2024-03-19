@@ -32,6 +32,10 @@ author_profile: true
 
 ------
 
+* [Decentralized stochastic subgradient methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2403.11565) <br>
+  Siyuan Zhang, <strong>Nachuan Xiao*</strong>, Xin Liu <br>
+  arXiv preprint arXiv:2403.11565. <br>
+  
 * [Adam-family methods with decoupled weight decay in deep learning](https://arxiv.org/pdf/2310.08858) <br>
   Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2310.08858. <br>
