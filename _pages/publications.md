@@ -65,9 +65,9 @@ $^{\*}$: corresponding author
 * [A Riemannian dimension-reduced second order method with application in sensor network localization](https://arxiv.org/pdf/2304.10092) <br>
   Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
   SIAM Journal on Scientific Computing (to appear). <br>
-* [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://arxiv.org/pdf/2103.03514) <br>
+* [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://link.springer.com/article/10.1007/s10915-024-02495-4) <br>
   Xin Liu, <strong>Nachuan Xiao*</strong>, Ya-xiang Yuan <br>
-  Journal of Scientific Computing (to appear). <br>
+  Journal of Scientific Computing 99(30), 2024. <br>
 * [Adam-family methods for nonsmooth optimization with convergence guarantees](https://arxiv.org/pdf/2305.03938) <br>
   **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research 25(48):1-53, 2024. <br>
