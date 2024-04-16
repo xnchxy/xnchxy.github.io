@@ -32,7 +32,7 @@ author_profile: true
 
 ------
 
-* [Developing Lagrangian-based Methods for Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2404.09438) <br>
+* [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
   <strong>Nachuan Xiao</strong>, Kuangyu Ding*, Xiaoyin Hu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2404.09438. <br>
   
