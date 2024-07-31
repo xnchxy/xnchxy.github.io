@@ -47,7 +47,7 @@ author_profile: true
   Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2310.08858. <br>
   
-* [Convergence guarantees for stochastic subgradient methods in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
+* [SGD-type methods with guaranteed global stability in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
   
