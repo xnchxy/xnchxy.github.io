@@ -32,6 +32,12 @@ author_profile: true
 
 ------
 
+* [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, <strong>Nachuan Xiao*</strong> <br>
+  arXiv preprint arXiv:2408.17213. <br>
+  
+* [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2406.18287) <br>Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
+  arXiv preprint arXiv:2406.18287. <br>
+  
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
   <strong>Nachuan Xiao</strong>, Kuangyu Ding*, Xiaoyin Hu, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2404.09438. <br>
@@ -44,7 +50,7 @@ author_profile: true
   Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2310.08858. <br>
   
-* [Convergence guarantees for stochastic subgradient methods in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
+* [SGD-type methods with guaranteed global stability in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
   
