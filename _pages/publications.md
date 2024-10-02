@@ -52,9 +52,7 @@ author_profile: true
   <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2304.01467. <br>
   
-* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
-  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2212.02698. <br>
+
   
   
 
@@ -66,9 +64,13 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
+* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
+  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
+  Mathematical Programming Computation (to appear). <br>
+
 * [A Riemannian dimension-reduced second order method with application in sensor network localization](https://arxiv.org/pdf/2304.10092) <br>
   Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
-  SIAM Journal on Scientific Computing (to appear). <br>
+  SIAM Journal on Scientific Computing, 2024, 46(3), A2025-A2046. <br>
 * [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://link.springer.com/article/10.1007/s10915-024-02495-4) <br>
   Xin Liu, <strong>Nachuan Xiao*</strong>, Ya-xiang Yuan <br>
   Journal of Scientific Computing 99(30), 2024. <br>
@@ -77,13 +79,13 @@ $^{\*}$: corresponding author
   Journal of Machine Learning Research 25(48):1-53, 2024. <br>
 * [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
   Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  IMA Journal of Numerical Analysis (to appear). <br>
+  IMA Journal of Numerical Analysis, 2023, drad098. <br>
 * [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627) <br>
   Xiaoyin Hu, Xin Liu, <strong>Nachuan Xiao*</strong> <br>
-  Journal of Industrial and Management Optimization (to appear). <br>
+  Journal of Industrial and Management Optimization, 2024, 20(5): 1934-1950. <br>
 * [Dissolving constraints for Riemannian optimization ](https://pubsonline.informs.org/doi/abs/10.1287/moor.2023.1360) <br>
   <strong>Nachuan Xiao</strong>, Xin Liu, Kim-Chuan Toh* <br>
-  Mathematics of Operations Research (to appear). <br>
+  Mathematics of Operations Research 49(1):366-397. <br>
 * [Solving optimization problems over the Stiefel manifold by smooth exact penalty function](https://arxiv.org/pdf/2110.08986) <br>
   <strong>Nachuan Xiao</strong>, Xin Liu* <br>
   Journal of Computational Mathematics (to appear). <br>
