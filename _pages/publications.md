@@ -67,7 +67,7 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
-* [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2406.18287) <br>
+* [Learning-rate-free momentum SGD with reshuffling converges in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2406.18287) <br>
   Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
   Journal of Scientific Computing (to appear). <br>
 
