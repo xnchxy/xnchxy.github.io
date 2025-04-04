@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nachuan Xiao"
   avatar           : "photo.jpg"
-  bio              : "Research Fellow at National University of Singapore" # Your biography for the left-hand sidebar
-  location         : "Singapore" # could become a hyper link
+  bio              : "Assistant Professor at CUHKSZ" # Your biography for the left-hand sidebar
+  location         : "China" # could become a hyper link
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1qrNHUMAAAAJ"
