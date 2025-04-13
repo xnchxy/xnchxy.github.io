@@ -24,6 +24,11 @@ redirect_from:
 
 ------
 
-* 2021.08-present<br>
+* 2021.08-2025.03<br>
   Institute of Operations Research and Analytics, National University of Singapore<br>
   Research Fellow<br>
+  
+* 2025.04-present<br>School of Data Science, The Chinese University of Hong Kong, Shenzhen<br>
+  Assistant Professor<br>
+
+  
