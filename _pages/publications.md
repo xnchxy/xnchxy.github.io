@@ -43,10 +43,6 @@ author_profile: true
   Siyuan Zhang, <strong>Nachuan Xiao</strong>, Xin Liu* <br>
   arXiv preprint arXiv:2403.11565. <br>
   
-* [Adam-family methods with decoupled weight decay in deep learning](https://arxiv.org/pdf/2310.08858) <br>
-  Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2310.08858. <br>
-  
 * [SGD-type methods with guaranteed global stability in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
@@ -55,7 +51,7 @@ author_profile: true
   <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2304.01467. <br>
   
-
+  
   
   
 
@@ -66,6 +62,10 @@ author_profile: true
 ------
 
 $^{\*}$: corresponding author
+
+* [Adam-family methods with decoupled weight decay in deep learning](https://openreview.net/forum?id=xVEHiAZ7uR) <br>
+  Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
+  Transactions on Machine Learning Research. <br>
 
 * [Learning-rate-free momentum SGD with reshuffling converges in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2406.18287) <br>
   Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
