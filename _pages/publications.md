@@ -33,7 +33,7 @@ author_profile: true
 ------
 
 * [An Exact Penalty Approach for Equality Constrained Optimization over a Convex Set](https://arxiv.org/pdf/2307.10053) <br>
-  <strong>Nachuan Xiao</strong>, Shiwei Wang, Tianyun Tang*, Kim-Chuan Toh <br>
+  <strong>Nachuan Xiao</strong>, Tianyun Tang*, Shiwei Wang, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2505.10053. <br>
   
 * [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, <strong>Nachuan Xiao*</strong> <br>
