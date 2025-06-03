@@ -32,9 +32,12 @@ author_profile: true
 
 ------
 
-* [An Exact Penalty Approach for Equality Constrained Optimization over a Convex Set](https://arxiv.org/pdf/2505.02495) <br>
+* [A hybrid subgradient method for nonsmooth nonconvex bilevel optimization](https://arxiv.org/pdf/2505.22040) <br>
+  **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>arXiv preprint arXiv:2505.22040. <br>
+  
+* [An exact penalty approach for equality constrained optimization over a convex set](https://arxiv.org/pdf/2505.02495) <br>
   <strong>Nachuan Xiao</strong>, Tianyun Tang*, Shiwei Wang, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2505.02495 . <br>
+  arXiv preprint arXiv:2505.02495. <br>
   
 * [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, <strong>Nachuan Xiao*</strong> <br>
   arXiv preprint arXiv:2408.17213. <br>
@@ -85,10 +88,10 @@ $^{\*}$: corresponding author
 * [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://link.springer.com/article/10.1007/s10915-024-02495-4) <br>
   Xin Liu, <strong>Nachuan Xiao*</strong>, Ya-xiang Yuan <br>
   Journal of Scientific Computing 99(30), 2024. <br>
-* [Adam-family methods for nonsmooth optimization with convergence guarantees](https://arxiv.org/pdf/2305.03938) <br>
+* [Adam-family methods for nonsmooth optimization with convergence guarantees](https://www.jmlr.org/papers/v25/23-0576.html) <br>
   **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research 25(48):1-53, 2024. <br>
-* [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
+* [A constraint dissolving approach for nonsmooth optimization over the Stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
   Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
   IMA Journal of Numerical Analysis, 2023, drad098. <br>
 * [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627) <br>
