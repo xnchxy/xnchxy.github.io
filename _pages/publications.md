@@ -32,11 +32,15 @@ author_profile: true
 
 ------
 
+* [A hybrid subgradient method for nonsmooth nonconvex bilevel optimization](https://arxiv.org/pdf/2505.22040) <br>
+  **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>arXiv preprint arXiv:2505.22040. <br>
+  
+* [An exact penalty approach for equality constrained optimization over a convex set](https://arxiv.org/pdf/2505.02495) <br>
+  <strong>Nachuan Xiao</strong>, Tianyun Tang*, Shiwei Wang, Kim-Chuan Toh <br>
+  arXiv preprint arXiv:2505.02495. <br>
+  
 * [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, <strong>Nachuan Xiao*</strong> <br>
   arXiv preprint arXiv:2408.17213. <br>
-  
-* [Learning-rate-free Momentum SGD with Reshuffling Converges in Nonsmooth Nonconvex Optimization](https://arxiv.org/pdf/2406.18287) <br>Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2406.18287. <br>
   
 * [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
   <strong>Nachuan Xiao</strong>, Kuangyu Ding*, Xiaoyin Hu, Kim-Chuan Toh <br>
@@ -46,10 +50,6 @@ author_profile: true
   Siyuan Zhang, <strong>Nachuan Xiao</strong>, Xin Liu* <br>
   arXiv preprint arXiv:2403.11565. <br>
   
-* [Adam-family methods with decoupled weight decay in deep learning](https://arxiv.org/pdf/2310.08858) <br>
-  Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2310.08858. <br>
-  
 * [SGD-type methods with guaranteed global stability in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2307.10053) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2307.10053. <br>
@@ -58,9 +58,7 @@ author_profile: true
   <strong>Nachuan Xiao</strong>, Xin Liu*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2304.01467. <br>
   
-* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
-  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2212.02698. <br>
+  
   
   
 
@@ -72,24 +70,36 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
+* [Adam-family methods with decoupled weight decay in deep learning](https://openreview.net/forum?id=xVEHiAZ7uR) <br>
+  Kuangyu Ding, <strong>Nachuan Xiao*</strong>, Kim-Chuan Toh <br>
+  Transactions on Machine Learning Research. <br>
+
+* [Learning-rate-free momentum SGD with reshuffling converges in nonsmooth nonconvex optimization](https://arxiv.org/pdf/2406.18287) <br>
+  Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
+  Journal of Scientific Computing (to appear). <br>
+
+* [CDOpt: a Python package for a class of Riemannian optimization](https://arxiv.org/pdf/2212.02698) <br>
+  <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
+  Mathematical Programming Computation (to appear). <br>
+
 * [A Riemannian dimension-reduced second order method with application in sensor network localization](https://arxiv.org/pdf/2304.10092) <br>
   Tianyun Tang, Kim-Chuan Toh, <strong>Nachuan Xiao*</strong>, Yinyu Ye <br>
-  SIAM Journal on Scientific Computing (to appear). <br>
+  SIAM Journal on Scientific Computing, 2024, 46(3), A2025-A2046. <br>
 * [A penalty-free infeasible approach for a class of nonsmooth optimization problems over the Stiefel manifold](https://link.springer.com/article/10.1007/s10915-024-02495-4) <br>
   Xin Liu, <strong>Nachuan Xiao*</strong>, Ya-xiang Yuan <br>
   Journal of Scientific Computing 99(30), 2024. <br>
-* [Adam-family methods for nonsmooth optimization with convergence guarantees](https://arxiv.org/pdf/2305.03938) <br>
+* [Adam-family methods for nonsmooth optimization with convergence guarantees](https://www.jmlr.org/papers/v25/23-0576.html) <br>
   **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>
   Journal of Machine Learning Research 25(48):1-53, 2024. <br>
-* [A constraint dissolving approach for nonsmooth optimization over the stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
+* [A constraint dissolving approach for nonsmooth optimization over the Stiefel manifold](https://arxiv.org/pdf/2205.10500) <br>
   Xiaoyin Hu, <strong>Nachuan Xiao*</strong>, Xin Liu, Kim-Chuan Toh <br>
-  IMA Journal of Numerical Analysis (to appear). <br>
+  IMA Journal of Numerical Analysis, 2023, drad098. <br>
 * [Convergence properties of stochastic proximal subgradient method in solving a class of composite optimization problems with cardinality regularizer](https://www.aimsciences.org/data/article/export-pdf?id=65533d860e1b0f26aa73e627) <br>
   Xiaoyin Hu, Xin Liu, <strong>Nachuan Xiao*</strong> <br>
-  Journal of Industrial and Management Optimization (to appear). <br>
+  Journal of Industrial and Management Optimization, 2024, 20(5): 1934-1950. <br>
 * [Dissolving constraints for Riemannian optimization ](https://pubsonline.informs.org/doi/abs/10.1287/moor.2023.1360) <br>
   <strong>Nachuan Xiao</strong>, Xin Liu, Kim-Chuan Toh* <br>
-  Mathematics of Operations Research (to appear). <br>
+  Mathematics of Operations Research 49(1):366-397. <br>
 * [Solving optimization problems over the Stiefel manifold by smooth exact penalty function](https://arxiv.org/pdf/2110.08986) <br>
   <strong>Nachuan Xiao</strong>, Xin Liu* <br>
   Journal of Computational Mathematics (to appear). <br>

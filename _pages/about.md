@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - - -
-I am a post-doctoral research fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore, working with Prof. [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). I obtained my Ph.D. degree at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021, under the supervision of Prof. [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/). I obtained my B.S. in Mathematics and Applied Mathematics at Fudan University in 2016.
+I am currently an assistant professor at School of Data Science, The Chinese University of Hong Kong, Shenzhen. Prior to this, I was a post-doctoral research fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore, working with Prof. [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/) from 2021 to 2025. I obtained my Ph.D. degree at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2021, under the supervision of Prof. [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/). I obtained my B.S. in Mathematics and Applied Mathematics at Fudan University in 2016.
 
 Here is my [CV](./files/CV_NachuanXiao.pdf).
 
