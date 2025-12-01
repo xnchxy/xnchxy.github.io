@@ -32,6 +32,12 @@ author_profile: true
 
 ------
 
+* [A quadratically convergent alternating projection method for nonconvex sets](https://arxiv.org/abs/2511.22916) <br>
+  **Nachuan Xiao**, Shiwei Wang*, Tianyun Tang, Kim-Chuan Toh<br>arXiv preprint arXiv:2511.22916. <br>
+  
+* [Partial envelope for optimization problem with nonconvex constraints](https://arxiv.org/abs/2510.22223) <br>
+  Xiaoyin Hu, Xin Liu, Kim-Chuan Toh, **Nachuan Xiao***<br>arXiv preprint arXiv:2510.22223. <br>
+  
 * [A hybrid subgradient method for nonsmooth nonconvex bilevel optimization](https://arxiv.org/pdf/2505.22040) <br>
   **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>arXiv preprint arXiv:2505.22040. <br>
   
