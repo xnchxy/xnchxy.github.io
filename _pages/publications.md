@@ -45,10 +45,6 @@ author_profile: true
   <strong>Nachuan Xiao</strong>, Tianyun Tang*, Shiwei Wang, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2505.02495. <br>
   
-* [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
-  <strong>Nachuan Xiao</strong>, Kuangyu Ding*, Xiaoyin Hu, Kim-Chuan Toh <br>
-  arXiv preprint arXiv:2404.09438. <br>
-  
 * [Decentralized stochastic subgradient methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2403.11565) <br>
   Siyuan Zhang, <strong>Nachuan Xiao</strong>, Xin Liu* <br>
   arXiv preprint arXiv:2403.11565. <br>
@@ -73,6 +69,9 @@ author_profile: true
 
 $^{\*}$: corresponding author
 
+* [Developing Lagrangian-based methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2404.09438) <br>
+  <strong>Nachuan Xiao</strong>, Kuangyu Ding*, Xiaoyin Hu, Kim-Chuan Toh <br>
+  Mathematics of Operations Research. (to appear). <br>
 * [A minimization approach for minimax optimization with coupled constraints](https://arxiv.org/pdf/2408.17213) <br>Xiaoyin Hu, Kim-Chuan Toh, Shiwei Wang, <strong>Nachuan Xiao*</strong> <br>
   SIAM Journal on Optimization. (to appear). <br>
 * [Adam-family methods with decoupled weight decay in deep learning](https://openreview.net/forum?id=xVEHiAZ7uR) <br>
