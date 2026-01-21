@@ -31,6 +31,8 @@ author_profile: true
 ### Preprints
 
 ------
+* [Line-search and adaptive step sizes for nonconvex-strongly-concave minimax optimization](https://arxiv.org/abs/2601.10086) <br>
+  Bohao Ma, <strong>Nachuan Xiao*</strong>, Junyu Zhang<br>arXiv preprint arXiv:2601.10086. <br>
 
 * [A quadratically convergent alternating projection method for nonconvex sets](https://arxiv.org/abs/2511.22916) <br>
   **Nachuan Xiao**, Shiwei Wang*, Tianyun Tang, Kim-Chuan Toh<br>arXiv preprint arXiv:2511.22916. <br>
@@ -42,7 +44,7 @@ author_profile: true
   **Nachuan Xiao**, Xiaoyin Hu*, Xin Liu, Kim-Chuan Toh <br>arXiv preprint arXiv:2505.22040. <br>
   
 * [An exact penalty approach for equality constrained optimization over a convex set](https://arxiv.org/pdf/2505.02495) <br>
-  <strong>Nachuan Xiao</strong>, Tianyun Tang*, Shiwei Wang, Kim-Chuan Toh <br>
+  <strong>Nachuan Xiao</strong>, Tianyun Tang, Shiwei Wang*, Kim-Chuan Toh <br>
   arXiv preprint arXiv:2505.02495. <br>
   
 * [Decentralized stochastic subgradient methods for nonsmooth nonconvex optimization](https://arxiv.org/pdf/2403.11565) <br>
