@@ -68,10 +68,6 @@ author_profile: true
 
 <sup>*</sup>: corresponding author
 
-* [AI for science: Progress, challenges, and perspectives](https://doi.org/10.1016/j.xinn.2026.101530) <br>
-  Yongjun Xu, Zezhi Shao, Xin Liu, ..., <strong>Nachuan Xiao</strong>, et al. <br>
-  The Innovation, 2026, 101530 (in press). <br>
-
 * [Stochastic subgradient methods with guaranteed global stability in nonsmooth nonconvex optimization](https://doi.org/10.1007/s10107-026-02409-2) <br>
   <strong>Nachuan Xiao</strong>, Xiaoyin Hu*, Kim-Chuan Toh <br>
   Mathematical Programming, 2026 (published online). [arXiv](https://arxiv.org/abs/2307.10053) <br>
